@@ -1,4 +1,4 @@
-DEtailed Document:
+Detailed Document:
   https://docs.google.com/document/d/1woW6C-IE-84fEY-UDrOmHEjaitZ66oY6Jl6boJzNnrM/edit?usp=sharing 
 
 Use Case Description
